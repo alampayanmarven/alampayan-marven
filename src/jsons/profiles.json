@@ -1,0 +1,41 @@
+{
+  "data_1": [
+    { "birthday": "17 Nov 2001" },
+    {
+      "website": "<a target='blank' href='https://ap-southeast-2.console.aws.amazon.com/console/home?region=ap-southeast-2'>http://marven-resume.s3-website-us-east-1.amazonaws.com</a>"
+    },
+    { "phone": "+63 946-239-4699" },
+    { "address": "Cabulijan, Tubigon, Bohol, Philippines" }
+  ],
+  "data_2": [
+    { "age": 22 },
+    { "degree": "B.S. Information Technology" },
+    { "email": "<a href='mailto:someone@example.com'>alampayanmarven9@gmail.com</a>" },
+    { "freelance": "Available" }
+  ],
+  "data_3": [
+    "Cabulijan, Tubigon, Bohol, Philippines",
+    "+63 946-239-4699",
+    "<a href='mailto:someone@example.com'>alampayanmarven9@gmail.com</a>"
+  ],
+  "data_4": [
+    {
+      "title": "B.S. Information Technology",
+      "year": "2002 - 2007",
+      "school": "Mater Dei College",
+      "address": "Cabulijan, Tubigon, Bohol, Philippines"
+    },
+    {
+      "title": "SECONDARY",
+      "year": "2013 - 2019",
+      "school": "Holy Cross Academy",
+      "address": "Tubigon, Bohol"
+    },
+    {
+      "title": "ELEMENTARY",
+      "year": "2007 - 2013",
+      "school": "Ubojan, Tubigon, School",
+      "address": "Ubojan, Tubigon, Bohol"
+    }
+  ]
+}
